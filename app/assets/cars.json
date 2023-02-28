@@ -1,0 +1,31 @@
+{
+  "car1": {
+    "name": "Audi",
+    "speed_max": 200
+  },
+
+  "car2": {
+    "name": "Kia",
+    "speed_max": 190
+  },
+
+  "car3": {
+    "name": "Fiat",
+    "speed_max": 140
+  },
+
+  "car4": {
+    "name": "BMW",
+    "speed_max": 250
+  },
+
+  "car5": {
+    "name": "Mercedes",
+    "speed_max": 210
+  },
+
+  "car6": {
+    "name": "Tesla",
+    "speed_max": 220
+  }
+}
